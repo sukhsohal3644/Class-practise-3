@@ -10,6 +10,8 @@ namespace Class_practise_3
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine(1+1);
         }
     }
 }
